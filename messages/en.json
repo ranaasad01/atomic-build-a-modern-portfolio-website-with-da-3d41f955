@@ -1,1 +1,191 @@
-{}
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Hire me"
+  },
+  "footer": {
+    "tagline": "Full-Stack Developer & UI Engineer crafting high-performance interfaces and elegant digital experiences.",
+    "navHeading": "Navigation",
+    "socialHeading": "Connect",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "madeWith": "Made with",
+    "madeWithSuffix": "in Berlin"
+  },
+  "homeCta": {
+    "heading": "Let's build something exceptional.",
+    "body": "Whether you have a product idea, need a technical partner, or want to level up an existing codebase — I'd love to hear from you.",
+    "cta": "Get in touch"
+  },
+  "projects": {
+    "heroHeading": "Work That Speaks for Itself",
+    "heroBody": "A curated collection of projects spanning full-stack applications, interactive interfaces, and design systems. Every piece here was built with intention — crafted to solve real problems and leave a lasting impression.",
+    "heroCta": "Explore the work",
+    "gridHeading": "All Projects",
+    "gridBody": "Filter by discipline or scroll through the full archive. Each project represents a distinct challenge, a deliberate solution, and a story worth telling.",
+    "caseStudyHeading": "Featured Case Study — Luminary",
+    "caseStudyBody": "Luminary began as a personal frustration: existing journaling apps felt clinical and cold. The goal was to build something that felt like a conversation — warm, intelligent, and deeply personal. Over eight weeks, I designed and engineered the full product solo: from user research and wireframes through to a production-ready Next.js application with an OpenAI-powered reflection engine.\n\nThe core challenge was latency. Generative responses needed to feel instant, not mechanical. I implemented streaming completions with a custom React hook, reducing perceived response time by 60%. The mood-tracking layer uses a fine-tuned sentiment model to surface weekly emotional patterns in a minimal, non-intrusive chart — built entirely with D3.js and animated with Framer Motion.\n\nLuminary launched to 1,200 users in its first week, with a 74% day-7 retention rate — a metric that validated the core thesis: people return when an app genuinely listens.",
+    "ctaHeading": "Have a project in mind?",
+    "ctaBody": "I'm currently open to select freelance engagements and full-time opportunities. If you're building something ambitious and need a collaborator who cares as much about craft as delivery — let's talk.",
+    "ctaCta": "Get in touch",
+    "caseStudy": "Read case study",
+    "ctaButton": "View all projects",
+    "emptyState": "No projects yet. Check back soon.",
+    "eyebrow": "Featured work",
+    "featured": "Featured",
+    "filterLabel": "Filter by type",
+    "heading": "Selected projects",
+    "projectCount": "projects",
+    "subheading": "A collection of recent work across design and development.",
+    "viewAll": "View all",
+    "viewCode": "View code",
+    "viewProject": "View project"
+  },
+  "about": {
+    "heroHeading": "The mind behind the work.",
+    "heroBody": "I'm a full-stack developer and creative technologist who believes great software should feel as good as it performs. I obsess over the details — the micro-interaction, the 12ms render, the pixel that's one shade off.",
+    "heroCta": "See my projects",
+    "bioHeading": "Who I am",
+    "bioBody": "I'm Alex Mercer, a software engineer and UI craftsman based in Berlin. I've spent the last seven years building products at the intersection of engineering precision and design sensibility — from early-stage startups to scale-ups serving millions of users.\n\nMy work spans full-stack web applications, design systems, and interactive experiences. I care deeply about performance, accessibility, and the kind of polish that makes users trust a product before they've read a single word of copy.\n\nWhen I'm not pushing commits, I'm shooting 35mm film, reading about type history, or hunting for the perfect espresso.",
+    "techHeading": "What I build with",
+    "techBody": "My toolkit is opinionated and intentional — every technology here is something I've used in production, not just a tutorial.",
+    "expHeading": "Where I've been",
+    "expBody": "A timeline of the roles, companies, and milestones that shaped how I think and build.",
+    "ctaHeading": "Let's build something worth remembering.",
+    "ctaBody": "I'm selectively available for new projects, collaborations, and full-time opportunities. If you have something interesting, I'd love to hear about it.",
+    "ctaCta": "Get in touch",
+    "beyond": {
+      "eyebrow": "What drives me",
+      "heading": "Beyond the code",
+      "subtext": "I'm passionate about creating intuitive digital experiences that solve real problems."
+    },
+    "cta": {
+      "button": "Let's work together",
+      "eyebrow": "Ready to collaborate",
+      "heading": "Start your next project",
+      "subtext": "Have an idea? I'd love to hear about it and explore how we can build something great."
+    },
+    "hero": {
+      "bio1": "Designer and developer crafting modern digital experiences.",
+      "bio2": "Specializing in thoughtful UI/UX and clean, scalable code.",
+      "bio3": "Always learning, always building.",
+      "eyebrow": "About me",
+      "heading": "Creative technologist"
+    },
+    "stack": {
+      "eyebrow": "My toolkit",
+      "heading": "Technologies I work with"
+    },
+    "timeline": {
+      "educationBadge": "Education",
+      "educationLabel": "Studied",
+      "eyebrow": "Experience",
+      "heading": "My journey",
+      "workLabel": "Worked at"
+    },
+    "values": {
+      "heading": "What I value"
+    }
+  },
+  "contact": {
+    "heroHeading": "Let's Build Something Together",
+    "heroBody": "Whether you have a project in mind, a question, or just want to say hello — my inbox is always open. I typically respond within 24 hours.",
+    "heroCta": "Jump to the form",
+    "formHeading": "Send a Message",
+    "formBody": "Fill in the details below and I'll get back to you as soon as possible. The more context you share, the better I can help.",
+    "linksHeading": "Prefer a Direct Line?",
+    "linksBody": "Reach me wherever you feel most comfortable. I'm active on all of the channels below and happy to connect.",
+    "ctaHeading": "Ready to Start a Project?",
+    "ctaBody": "I'm currently available for freelance engagements and select full-time opportunities. If you have a vision, let's turn it into something real.",
+    "ctaCta": "View my work",
+    "namePlaceholder": "Your full name or company name",
+    "emailPlaceholder": "A valid address I can reply to",
+    "subjectPlaceholder": "e.g. Freelance project, Collaboration, General inquiry",
+    "messagePlaceholder": "Tell me about your project, timeline, and budget if applicable",
+    "submitButton": "Send Message",
+    "successMessage": "Message sent. I'll be in touch within 24 hours.",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "eyebrow": "Get in touch",
+    "form": {
+      "chars": "characters",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@example.com",
+      "errors": {
+        "emailInvalid": "Please enter a valid email address.",
+        "emailRequired": "Email is required.",
+        "messageRequired": "Message is required.",
+        "messageTooShort": "Message must be at least 10 characters.",
+        "nameRequired": "Name is required.",
+        "nameTooShort": "Name must be at least 2 characters.",
+        "subjectRequired": "Subject is required.",
+        "submitFailed": "Something went wrong. Please try again."
+      },
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell me about your project...",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "sending": "Sending...",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "What's this about?",
+      "submit": "Send message"
+    },
+    "heading": "Let's connect",
+    "side": {
+      "availableBody": "Open for freelance and full-time opportunities.",
+      "availableTitle": "Availability",
+      "basedIn": "Based in",
+      "findMe": "Find me on",
+      "responseNote": "I typically respond within 24 hours."
+    },
+    "subheading": "Have a project in mind? Reach out and let's discuss.",
+    "success": {
+      "again": "Send another message",
+      "body": "Thanks for getting in touch. I'll be back to you soon.",
+      "heading": "Message received"
+    }
+  },
+  "cta": {
+    "badge": "Let's work together",
+    "body": "Ready to bring your vision to life? Get in touch and let's create something remarkable.",
+    "heading": "Start your next project",
+    "primary": "Get in touch",
+    "secondary": "View my work"
+  },
+  "hero": {
+    "cta": {
+      "primary": "Explore my work",
+      "secondary": "Say hello"
+    },
+    "headline": {
+      "accent": "digital experiences",
+      "line1": "Crafting thoughtful",
+      "line2": "that inspire."
+    },
+    "location": "Based in [City]",
+    "scroll": "Scroll to explore",
+    "social": {
+      "label": "Connect with me"
+    },
+    "subhead": "Designer & developer focused on creating beautiful, functional interfaces."
+  },
+  "skills": {
+    "body": "I combine design thinking with technical expertise to solve complex problems.",
+    "cta": "Learn more",
+    "eyebrow": "What I do",
+    "heading": "Skills & expertise"
+  },
+  "testimonials": {
+    "eyebrow": "Social proof",
+    "heading": "What others say"
+  },
+  "valueProps": {
+    "eyebrow": "Why work with me",
+    "heading": "I bring strategy to design",
+    "subhead": "Every project starts with understanding your goals and audience."
+  }
+}

@@ -1,1 +1,191 @@
-{}
+{
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "cta": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Desarrollador Full-Stack e Ingeniero UI creando interfaces de alto rendimiento y experiencias digitales elegantes.",
+    "navHeading": "Navegación",
+    "socialHeading": "Conectar",
+    "copyright": "© {year} {name}. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "madeWithSuffix": "en Berlín"
+  },
+  "homeCta": {
+    "heading": "Construyamos algo excepcional.",
+    "body": "Ya sea que tengas una idea de producto, necesites un socio técnico o quieras mejorar un código existente — me encantaría saber de ti.",
+    "cta": "Ponte en contacto"
+  },
+  "projects": {
+    "heroHeading": "Trabajo que habla por sí solo",
+    "heroBody": "Una colección curada de proyectos que abarcan aplicaciones full-stack, interfaces interactivas y sistemas de diseño. Cada pieza aquí fue construida con intención — diseñada para resolver problemas reales y dejar una impresión duradera.",
+    "heroCta": "Explora el trabajo",
+    "gridHeading": "Todos los proyectos",
+    "gridBody": "Filtra por disciplina o desplázate por el archivo completo. Cada proyecto representa un desafío distinto, una solución deliberada y una historia que vale la pena contar.",
+    "caseStudyHeading": "Caso de estudio destacado — Luminary",
+    "caseStudyBody": "Luminary comenzó como una frustración personal: las aplicaciones de diario existentes se sentían clínicas y frías. El objetivo era construir algo que se sintiera como una conversación — cálido, inteligente y profundamente personal. Durante ocho semanas, diseñé e ingenieré el producto completo en solitario: desde investigación de usuarios y wireframes hasta una aplicación Next.js lista para producción con un motor de reflexión impulsado por OpenAI.\n\nEl desafío principal fue la latencia. Las respuestas generativas necesitaban sentirse instantáneas, no mecánicas. Implementé completaciones de streaming con un hook React personalizado, reduciendo el tiempo de respuesta percibido en un 60%. La capa de seguimiento del estado de ánimo utiliza un modelo de sentimiento ajustado para mostrar patrones emocionales semanales en un gráfico mínimo y no intrusivo — construido completamente con D3.js y animado con Framer Motion.\n\nLuminary se lanzó a 1,200 usuarios en su primera semana, con una tasa de retención del 74% en el día 7 — una métrica que validó la tesis central: las personas regresan cuando una aplicación realmente escucha.",
+    "ctaHeading": "¿Tienes un proyecto en mente?",
+    "ctaBody": "Actualmente estoy abierto a compromisos freelance selectos y oportunidades a tiempo completo. Si estás construyendo algo ambicioso y necesitas un colaborador que se preocupe tanto por la artesanía como por la entrega — hablemos.",
+    "ctaCta": "Ponte en contacto",
+    "caseStudy": "Leer caso de estudio",
+    "ctaButton": "Ver todos los proyectos",
+    "emptyState": "Sin proyectos aún. Vuelve pronto.",
+    "eyebrow": "Trabajo destacado",
+    "featured": "Destacado",
+    "filterLabel": "Filtrar por tipo",
+    "heading": "Proyectos seleccionados",
+    "projectCount": "proyectos",
+    "subheading": "Una colección de trabajo reciente en diseño y desarrollo.",
+    "viewAll": "Ver todo",
+    "viewCode": "Ver código",
+    "viewProject": "Ver proyecto"
+  },
+  "about": {
+    "heroHeading": "La mente detrás del trabajo.",
+    "heroBody": "Soy un desarrollador full-stack y tecnólogo creativo que cree que el gran software debe verse tan bien como funciona. Me obsesiono con los detalles — la microinteracción, el render de 12ms, el píxel que está un matiz diferente.",
+    "heroCta": "Ver mis proyectos",
+    "bioHeading": "Quién soy",
+    "bioBody": "Soy Alex Mercer, ingeniero de software y artesano de UI con base en Berlín. He pasado los últimos siete años construyendo productos en la intersección entre precisión técnica y sensibilidad de diseño — desde startups en etapa temprana hasta empresas en crecimiento que sirven a millones de usuarios.\n\nMi trabajo abarca aplicaciones web full-stack, sistemas de diseño y experiencias interactivas. Me importa profundamente el rendimiento, la accesibilidad y ese pulido que hace que los usuarios confíen en un producto antes de leer una sola palabra de texto.\n\nCuando no estoy haciendo commits, estoy fotografiando con película de 35mm, leyendo sobre historia de tipografía o buscando el espresso perfecto.",
+    "techHeading": "Con qué construyo",
+    "techBody": "Mi conjunto de herramientas es opinado e intencional — cada tecnología aquí es algo que he usado en producción, no solo en un tutorial.",
+    "expHeading": "Dónde he estado",
+    "expBody": "Una línea de tiempo de los roles, empresas e hitos que formaron cómo pienso y construyo.",
+    "ctaHeading": "Construyamos algo que valga la pena recordar.",
+    "ctaBody": "Estoy disponible de forma selectiva para nuevos proyectos, colaboraciones y oportunidades a tiempo completo. Si tienes algo interesante, me encantaría saberlo.",
+    "ctaCta": "Ponte en contacto",
+    "beyond": {
+      "eyebrow": "Qué me impulsa",
+      "heading": "Más allá del código",
+      "subtext": "Me apasiona crear experiencias digitales intuitivas que resuelvan problemas reales."
+    },
+    "cta": {
+      "button": "Trabajemos juntos",
+      "eyebrow": "Listo para colaborar",
+      "heading": "Inicia tu próximo proyecto",
+      "subtext": "¿Tienes una idea? Me encantaría escucharla y explorar cómo podemos construir algo genial."
+    },
+    "hero": {
+      "bio1": "Diseñador y desarrollador que crea experiencias digitales modernas.",
+      "bio2": "Especializado en UI/UX reflexivo y código limpio y escalable.",
+      "bio3": "Siempre aprendiendo, siempre construyendo.",
+      "eyebrow": "Sobre mí",
+      "heading": "Tecnólogo creativo"
+    },
+    "stack": {
+      "eyebrow": "Mi conjunto de herramientas",
+      "heading": "Tecnologías con las que trabajo"
+    },
+    "timeline": {
+      "educationBadge": "Educación",
+      "educationLabel": "Estudié",
+      "eyebrow": "Experiencia",
+      "heading": "Mi trayectoria",
+      "workLabel": "Trabajé en"
+    },
+    "values": {
+      "heading": "Lo que valoro"
+    }
+  },
+  "contact": {
+    "heroHeading": "Construyamos Algo Juntos",
+    "heroBody": "Ya sea que tengas un proyecto en mente, una pregunta o simplemente quieras saludar — mi bandeja de entrada siempre está abierta. Normalmente respondo en 24 horas.",
+    "heroCta": "Ir al formulario",
+    "formHeading": "Envía un Mensaje",
+    "formBody": "Completa los detalles a continuación y te responderé lo antes posible. Cuanto más contexto compartas, mejor podré ayudarte.",
+    "linksHeading": "¿Prefieres una Línea Directa?",
+    "linksBody": "Puedes contactarme donde te sientas más cómodo. Estoy activo en todos los canales a continuación y feliz de conectar.",
+    "ctaHeading": "¿Listo para Iniciar un Proyecto?",
+    "ctaBody": "Actualmente estoy disponible para trabajos freelance y oportunidades selectas a tiempo completo. Si tienes una visión, hagamos que se haga realidad.",
+    "ctaCta": "Ver mi trabajo",
+    "namePlaceholder": "Tu nombre completo o nombre de la empresa",
+    "emailPlaceholder": "Una dirección válida a la que pueda responder",
+    "subjectPlaceholder": "p. ej. Proyecto freelance, Colaboración, Consulta general",
+    "messagePlaceholder": "Cuéntame sobre tu proyecto, cronograma y presupuesto si aplica",
+    "submitButton": "Enviar mensaje",
+    "successMessage": "Mensaje enviado. Me pondré en contacto dentro de 24 horas.",
+    "nameLabel": "Nombre",
+    "emailLabel": "Correo electrónico",
+    "subjectLabel": "Asunto",
+    "messageLabel": "Mensaje",
+    "eyebrow": "Ponte en contacto",
+    "form": {
+      "chars": "caracteres",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "errors": {
+        "emailInvalid": "Por favor ingresa una dirección de correo válida.",
+        "emailRequired": "El correo electrónico es obligatorio.",
+        "messageRequired": "El mensaje es obligatorio.",
+        "messageTooShort": "El mensaje debe tener al menos 10 caracteres.",
+        "nameRequired": "El nombre es obligatorio.",
+        "nameTooShort": "El nombre debe tener al menos 2 caracteres.",
+        "subjectRequired": "El asunto es obligatorio.",
+        "submitFailed": "Algo salió mal. Por favor intenta de nuevo."
+      },
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "sending": "Enviando...",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "submit": "Enviar mensaje"
+    },
+    "heading": "Conectemos",
+    "side": {
+      "availableBody": "Abierto a oportunidades freelance y tiempo completo.",
+      "availableTitle": "Disponibilidad",
+      "basedIn": "Ubicado en",
+      "findMe": "Encuéntrame en",
+      "responseNote": "Generalmente respondo dentro de 24 horas."
+    },
+    "subheading": "¿Tienes un proyecto en mente? Ponte en contacto y hablemos.",
+    "success": {
+      "again": "Enviar otro mensaje",
+      "body": "Gracias por ponerte en contacto. Pronto me pondré en contacto contigo.",
+      "heading": "Mensaje recibido"
+    }
+  },
+  "cta": {
+    "badge": "Trabajemos juntos",
+    "body": "¿Listo para hacer realidad tu visión? Ponte en contacto y creemos algo extraordinario.",
+    "heading": "Inicia tu próximo proyecto",
+    "primary": "Ponte en contacto",
+    "secondary": "Ver mi trabajo"
+  },
+  "hero": {
+    "cta": {
+      "primary": "Explora mi trabajo",
+      "secondary": "Saluda"
+    },
+    "headline": {
+      "accent": "experiencias digitales",
+      "line1": "Creando experiencias",
+      "line2": "que inspiran."
+    },
+    "location": "Basado en [City]",
+    "scroll": "Desplázate para explorar",
+    "social": {
+      "label": "Conéctate conmigo"
+    },
+    "subhead": "Diseñador y desarrollador enfocado en crear interfaces hermosas y funcionales."
+  },
+  "skills": {
+    "body": "Combino pensamiento de diseño con experiencia técnica para resolver problemas complejos.",
+    "cta": "Saber más",
+    "eyebrow": "Qué hago",
+    "heading": "Habilidades y experiencia"
+  },
+  "testimonials": {
+    "eyebrow": "Prueba social",
+    "heading": "Qué dicen otros"
+  },
+  "valueProps": {
+    "eyebrow": "Por qué trabajar conmigo",
+    "heading": "Aporto estrategia al diseño",
+    "subhead": "Cada proyecto comienza con entender tus objetivos y audiencia."
+  }
+}
